@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, </br>  my name is Miłosz Rzyczniak</h1>
 <h3 align="center">A passionate web developer from Poland</h3>
-</br></br></br> 
+</br></br>
 <h3 align="center">About me</h3><hr> 
 <p align="left">
 I have finished high school this year. From October, I start
