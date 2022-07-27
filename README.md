@@ -8,15 +8,15 @@
 <p align="left"><b>React</b>
 The website is creating for the Stowarzyszenie Rodziców
 i Przyjacół Osób z Zespołem Downa "Tęcza" association.</p>
-<b><a href="[url](https://tecza-testpage.netlify.app/)">link text</a>DEMO</a></b>
-<b><a href="[url](https://github.com/Rzyczu/tecza-page)">link text</a>REPOSITORY</a></b>
+<b><a href="[url](https://tecza-testpage.netlify.app/)">DEMO</a></b>
+<b><a href="[url](https://github.com/Rzyczu/tecza-page)">REPOSITORY</a></b>
 </hr> 
 
 <h4 align="left">Maze Game</h4>
 <p align="left"><b>Express, Three JS, JavaScript, Webpack, NeDB, session</b>
 The project presents a 3D multiplayer game for two players.</p>
-<b><a href="url">link text</a>DEMO</a></b>
-<b><a href="url">link text</a>REPOSITORY</a></b>
+<b><a href="[url](https://tecza-testpage.netlify.app/)">DEMO</a></b>
+<b><a href="[url](https://github.com/Rzyczu/tecza-page)">REPOSITORY</a></b>
 </hr> 
 
 
