@@ -52,7 +52,7 @@ The application presents the popular Tetris game</p>
 <b><a href="https://github.com/Rzyczu/dr-Mario">REPOSITORY</a></b>
 <hr> 
 
-<h3 align="center">Education</h3><hr> 
+<h3 align="center">Education</h3>
 <p align="left">
 2018-2022 <b>
 Technikum Łączności nr 14
@@ -61,7 +61,7 @@ Specialization: <b>
 Technik Informatyk </b>
 </p><hr> 
 
-<h3 align="center">Languages</h3><hr> 
+<h3 align="center">Languages</h3>
 <p align="left">
 Polish - Native </br>
 English - B2 </br>
