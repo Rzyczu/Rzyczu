@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, </br>  my name is Miłosz Rzyczniak</h1>
 <h3 align="center">A passionate web developer from Poland</h3>
 </br></br>
-<h3 align="center">About me</h3><hr> 
+<h3 align="center">About me</h3>
 <p align="left">
 I have finished high school this year. From October, I start
 to study Computer Science in Computer Engineering at
