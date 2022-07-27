@@ -12,7 +12,7 @@ myself in this direction.
 <p>
 <hr> 
 
-<h3 align="center">My Projects:</h3><hr> 
+<h3 align="center">My Projects:</h3>
 
 <h3 align="left">Tęcza Website</h3>
 <p align="left"><b>React</b>
