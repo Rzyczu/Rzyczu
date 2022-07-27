@@ -4,28 +4,12 @@
 
 <h3 align="left">My Projects:</h3>
 <h4 align="left">Tęcza Website</h4>
-React
+<p align="left"><b>React</b>
 The website is creating for the Stowarzyszenie Rodziców
-i Przyjacół Osób z Zespołem Downa "Tęcza" association.
-DEMO
-REPOSITORY
-Maze Game
-Express, Three JS, JavaScript, Webpack, NeDB, session
-The project presents a 3D multiplayer game.
-DEMO
-REPOSITORY
-Tetris
-TypeScript, Webpack
-The application presents the popular Tetris game.
-DEMO
-REPOSITORY
-Cinema Website
-PHP, JavaScript, MySQL
-The project presents the website of the cinema with the
-possibility of registration, logging in and booking of
-screenings.
-DEMO
-REPOSITORY
+i Przyjacół Osób z Zespołem Downa "Tęcza" association.</p>
+<b><a href="url">link text</a>DEMO</a></b>
+<b><a href="url">link text</a>REPOSITORY</a></b>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
