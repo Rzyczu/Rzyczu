@@ -8,14 +8,6 @@
 <p align="left"><b>React</b>
 The website is creating for the Stowarzyszenie Rodziców
 i Przyjacół Osób z Zespołem Downa "Tęcza" association.</p>
-<b><a href="url">link text</a>DEMO</a></b>
-<b><a href="url">link text</a>REPOSITORY</a></b>
-</hr> 
-
-<h4 align="left">Tęcza Website</h4>
-<p align="left"><b>React</b>
-The website is creating for the Stowarzyszenie Rodziców
-i Przyjacół Osób z Zespołem Downa "Tęcza" association.</p>
 <b><a href="[url](https://tecza-testpage.netlify.app/)">link text</a>DEMO</a></b>
 <b><a href="[url](https://github.com/Rzyczu/tecza-page)">link text</a>REPOSITORY</a></b>
 </hr> 
