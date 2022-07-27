@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, </br>  my name is Miłosz Rzyczniak</h1>
 <h3 align="center">A passionate web developer from Poland</h3>
-<hr> 
-
+</br></br></br> 
 <h3 align="center">About me</h3><hr> 
 <p align="left">
 I have finished high school this year. From October, I start
@@ -15,43 +14,38 @@ myself in this direction.
 
 <h3 align="center">My Projects:</h3><hr> 
 
-<h4 align="left">Tęcza Website</h4>
+<h3 align="left">Tęcza Website</h3>
 <p align="left"><b>React</b>
 The website is creating for the Stowarzyszenie Rodziców
 i Przyjacół Osób z Zespołem Downa "Tęcza" association.</p>
 <b><a href="https://tecza-testpage.netlify.app/">DEMO</a></b> </br>
 <b><a href="https://github.com/Rzyczu/tecza-page">REPOSITORY</a></b>
-<hr> 
 
-<h4 align="left">Maze Game</h4>
+<h3 align="left">Maze Game</h3>
 <p align="left"><b>Express, Three JS, JavaScript, Webpack, NeDB, session</b>
 The project presents a 3D multiplayer game for two players.</p>
 <b><a href="https://labirintum.herokuapp.com/">DEMO</a></b></br>
 <b><a href="https://github.com/Rzyczu/Labirintum">REPOSITORY</a></b>
-<hr> 
 
-<h4 align="left">Mobile Scout App</h4>
+<h3 align="left">Mobile Scout App</h3>
 <p align="left"><b>React Native</b>
 The application was created in React Native for the needs of the scouting game.
 </p>
 <b><a href="https://github.com/Rzyczu/zbiorka_DMB/">DEMO</a></b></br>
-<hr> 
 
-<h4 align="left">Cinema Website</h4>
+<h3 align="left">Cinema Website</h3>
 <p align="left"><b>PHP, JavaScript, MySWL</b>
 The project presents the website of the cinema with the possibility of registration, logging in and booking of screenings.</p>
 <!-- <b><a href="https://labirintum.herokuapp.com/">DEMO</a></b></br> -->
 <b><a href="https://github.com/Rzyczu/Cinema">REPOSITORY</a></b>
-<hr> 
 
-<h4 align="left">Tetris</h4>
+<h3 align="left">Tetris</h3>
 <p align="left"><b>TypeScript, WebPack</b>
 The application presents the popular Tetris game</p>
 <b><a href="https://rzyczu.github.io/Tetris/">DEMO</a></b></br>
 <b><a href="https://github.com/Rzyczu/Tetris">REPOSITORY</a></b>
-<hr> 
 
-<h4 align="left">The application presents the game Dr. Mario.</h4>
+<h3 align="left">The application presents the game Dr. Mario.</h3>
 <p align="left"><b>Javascript</b>
 The application presents the popular Tetris game</p>
 <b><a href="https://rzyczu.github.io/dr-Mario/">DEMO</a></b></br>
