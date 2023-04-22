@@ -8,8 +8,9 @@ and applications is my passion and I would like to develop
 myself in this direction.
 <p>
 <hr> 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-![image]({https://www.linkedin.com/in/mi%C5%82osz-rzyczniak-b68175253/})
+ [![General badge](https://img.shields.io/badge/<LinkedIn>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 <h3 align="center">My Projects:</h3>
 
