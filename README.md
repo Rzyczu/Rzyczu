@@ -9,7 +9,7 @@ myself in this direction.
 <p>
 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="50"/> </a> <a href="https://www.linkedin.com/in/mi%C5%82osz-rzyczniak-b68175253/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="auto" height="50"/> </a> <a href="https://www.linkedin.com/in/mi%C5%82osz-rzyczniak-b68175253/" target="_blank" rel="noreferrer">
  <hr> 
 <h3 align="center">My Projects:</h3>
 
