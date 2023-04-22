@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, </br>  my name is Miłosz Rzyczniak</h1>
-<h3 align="center">A passionate web developer from Poland</h3>
-</br></br>
 <h3 align="center">About me</h3>
 <p align="left">
 I have finished high school this year. From October, I start
@@ -11,6 +8,8 @@ and applications is my passion and I would like to develop
 myself in this direction.
 <p>
 <hr> 
+
+![image]({https://www.linkedin.com/in/mi%C5%82osz-rzyczniak-b68175253/})
 
 <h3 align="center">My Projects:</h3>
 
