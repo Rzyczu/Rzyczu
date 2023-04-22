@@ -7,11 +7,10 @@ like to start working as a web developer. Creating websites
 and applications is my passion and I would like to develop
 myself in this direction.
 <p>
-<hr> 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
- [![General badge](https://img.shields.io/badge/<LinkedIn>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="50"/> </a> <a href="https://www.linkedin.com/in/mi%C5%82osz-rzyczniak-b68175253/" target="_blank" rel="noreferrer">
+ <hr> 
 <h3 align="center">My Projects:</h3>
 
 <h3 align="left">Tęcza Website</h3>
