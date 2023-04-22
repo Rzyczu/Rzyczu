@@ -9,8 +9,8 @@ myself in this direction.
 <p>
 
 
-<a href="https://www.linkedin.com/in/mi%C5%82osz-rzyczniak-b68175253/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="LinkedIn" width="auto" height="50"/> </a> 
- <hr> 
+<a href="https://www.linkedin.com/in/mi%C5%82osz-rzyczniak-b68175253/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="LinkedIn" width="auto" height="50"/> 
+ <hr> </a>  <hr />
 ## Projects
 
 # Tecza page
