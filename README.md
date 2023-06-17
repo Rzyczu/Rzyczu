@@ -54,12 +54,12 @@ The application presents the popular Tetris game</p>
 <br />
 
 ## Education
-2022-now <b>Politechnika Krakowska</b><br />
+2022-now <br /><b>Politechnika Krakowska</b><br />
 Specialization: 
 <b>Computer Science in Computer Engineering</b>
 <br />
 <p align="left">
-2018-2022 <b>
+2018-2022 <br /><b>
 Technikum Łączności nr 14
 w Krakowie. </b></br>
 Specialization: <b>
