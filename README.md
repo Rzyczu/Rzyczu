@@ -1,15 +1,10 @@
 # About me
 <p align="left">
-I have finished high school this year. From October, I start
-to study Computer Science in Computer Engineering at
-the Politechnika Krakowska at external studies. I would
-like to start working as a web developer. Creating websites
-and applications is my passion and I would like to develop
-myself in this direction.
-<p>
+I have been studying Computer Science in Computer Engineering at the Politechnika Krakwska for a year now. During this time, I have also gained valuable work experience as a Junior Full Stack Developer for almost a year.  Creating websites and apps is my passion. I am always eager to learn new technologies to enhance my skills in web development.
+</p>
 
 
-<a href="https://www.linkedin.com/in/mi%C5%82osz-rzyczniak-b68175253/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="LinkedIn" width="auto" height="50"/> </a>
+<a href="https://www.linkedin.com/in/mrzyczniak/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="LinkedIn" width="auto" height="50"/> </a>
 
 <!---
 # Projects
@@ -50,6 +45,13 @@ The application presents the popular Tetris game</p>
 <b><a href="https://rzyczu.github.io/dr-Mario/">DEMO</a></b></br>
 <b><a href="https://github.com/Rzyczu/dr-Mario">REPOSITORY</a></b> 
 -->
+
+## Work experience
+09/2022-06/2023 
+### Junior Full Stack Developer<br />
+<b>ITIS Sp. z o.o. </b>
+<b>Aurelia, TypeScript, HTML, .NET, GIT, TFS</b>
+<br />
 
 ## Education
 2022-now <b>Politechnika Krakowska</b><br />
