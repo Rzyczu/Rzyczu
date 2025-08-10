@@ -1,6 +1,6 @@
 # About me
 <p align="left">
-I have been studying Computer Science in Computer Engineering at the Politechnika Krakwska for a year now. During this time, I have also gained valuable work experience as a Junior Full Stack Developer for almost a year.  Creating websites and apps is my passion. I am always eager to learn new technologies to enhance my skills in web development.
+I have been studying Computer Science in Computer Engineering at the Cracow University of Technology for 3 years now. During this time, I have also gained valuable work experience as a Junior Full Stack Developer for almost a year. Creating websites and apps is my passion. I am always eager to learn new technologies to enhance my skills in web development.
 </p>
 
 
